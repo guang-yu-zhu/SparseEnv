@@ -1,3 +1,4 @@
+#devtools::install_github('tidyverse/tidytemplate')
 file.edit('.gitignore')
 #file.edit('.github/workflows/_pkgdown.yml')
 file.edit('_pkgdown.yml')
