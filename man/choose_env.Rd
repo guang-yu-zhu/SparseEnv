@@ -2,7 +2,7 @@
 % Please edit documentation in R/choose_env.R
 \name{choose_env}
 \alias{choose_env}
-\title{choose_env}
+\title{Choose u for envelope model.}
 \usage{
 choose_env(X, Y)
 }
@@ -26,9 +26,6 @@ choose_env(X, Y)
 \description{
 Select the dimension of the envelope subspace using Bayesian information
 criterion, Akaike information criterion, and Likelihood ratio testing.
-}
-\details{
-Choose u for envelope model.
 }
 \examples{
 

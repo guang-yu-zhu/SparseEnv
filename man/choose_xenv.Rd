@@ -2,7 +2,7 @@
 % Please edit documentation in R/choose_xenv.R
 \name{choose_xenv}
 \alias{choose_xenv}
-\title{choose_xenv}
+\title{Choose u for the envelope-based PLS.}
 \usage{
 choose_xenv(X, Y)
 }
@@ -26,9 +26,6 @@ choose_xenv(X, Y)
 \description{
 Select the dimension of the envelope subspace using Bayesian information
 criterion, Akaike information criterion, and Likelihood ratio testing.
-}
-\details{
-Choose u for the envelope-based PLS.
 }
 \examples{
 data(AIS)

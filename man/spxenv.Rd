@@ -73,13 +73,11 @@ Fit the envelope based sparse partial least squares model.
 This function fits the sparse envelope model to the predictor using the maximum likelihood estimation. When the dimension of the envelope is between 1 and p-1, we implemented the algorithm in G. Zhu and Z. Su (2017). When the dimension is p, then the envelope model degenerates to the standard multivariate linear regression. When the dimension is 0, it means that X and Y are uncorrelated, and the fitting is different.
 }
 \references{
-#'
 The codes are implemented based on the algorithm in Guangyu Zhu. Zhihua Su. "Envelope-based sparse partial least squares." Ann. Statist. 48 (1) 161 - 182, February 2020. \href{https://doi.org/10.1214/18-AOS1796}
 }
 \seealso{
 \code{choose_spxenv} for choosing the dimension of envelope subspace and the tuning parameter.
 }
 \author{
-#'
 Guangyu Zhu and Zhihua Su
 }

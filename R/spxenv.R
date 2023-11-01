@@ -49,10 +49,10 @@
 #' \item{ratio}{The asymptotic standard error ratio of the standard multivariate linear regression estimator over the envelope estimator, for each element in beta. An r by p matrix.}
 #' \item{fit_time}{The time costs for fitting the envelope model.}
 #'
-#' @references#'
+#' @references
 #' The codes are implemented based on the algorithm in Guangyu Zhu. Zhihua Su. "Envelope-based sparse partial least squares." Ann. Statist. 48 (1) 161 - 182, February 2020. \href{https://doi.org/10.1214/18-AOS1796}
 #'
-#' @author#'
+#' @author
 #' Guangyu Zhu and Zhihua Su
 #'
 #' @seealso

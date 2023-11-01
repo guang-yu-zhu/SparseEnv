@@ -1,7 +1,5 @@
 #' Choose u and lambda for sparse envelope model.
 #'
-#' @title choose_spenv
-#'
 #' @description
 #' Select the dimension of the envelope subspace and the tuning parameter using Bayesian information
 #' criterion, Akaike information criterion, and Likelihood ratio testing.

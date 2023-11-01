@@ -2,7 +2,7 @@
 % Please edit documentation in R/choose_spxenv.R
 \name{choose_spxenv}
 \alias{choose_spxenv}
-\title{choose_spxenv}
+\title{Choose u and lambda for envelope-based sparse partial least squares model.}
 \usage{
 choose_spxenv(X, Y)
 }
@@ -27,9 +27,6 @@ choose_spxenv(X, Y)
 \description{
 Select the dimension of the envelope subspace and the tuning parameter using Bayesian information
 criterion, Akaike information criterion, and Likelihood ratio testing.
-}
-\details{
-Choose u and lambda for envelope-based sparse partial least squares model.
 }
 \references{
 The codes are implemented based on the algorithm in Guangyu Zhu. Zhihua Su. "Envelope-based sparse partial least squares." Ann. Statist. 48 (1) 161 - 182, February 2020. \href{https://doi.org/10.1214/18-AOS1796}

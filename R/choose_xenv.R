@@ -1,7 +1,5 @@
 #' Choose u for the envelope-based PLS.
 #'
-#' @title choose_xenv
-#'
 #' @description
 #' Select the dimension of the envelope subspace using Bayesian information
 #' criterion, Akaike information criterion, and Likelihood ratio testing.

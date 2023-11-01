@@ -1,7 +1,5 @@
 #' Choose u and lambda for envelope-based sparse partial least squares model.
 #'
-#' @title choose_spxenv
-#'
 #' @description
 #' Select the dimension of the envelope subspace and the tuning parameter using Bayesian information
 #' criterion, Akaike information criterion, and Likelihood ratio testing.

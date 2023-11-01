@@ -1,6 +1,5 @@
 #' Choose u for envelope model.
 #'
-#' @title choose_env
 #'
 #' @description
 #' Select the dimension of the envelope subspace using Bayesian information

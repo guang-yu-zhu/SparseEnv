@@ -2,7 +2,7 @@
 % Please edit documentation in R/choose_spenv.R
 \name{choose_spenv}
 \alias{choose_spenv}
-\title{choose_spenv}
+\title{Choose u and lambda for sparse envelope model.}
 \usage{
 choose_spenv(X, Y)
 }
@@ -26,9 +26,6 @@ choose_spenv(X, Y)
 \description{
 Select the dimension of the envelope subspace and the tuning parameter using Bayesian information
 criterion, Akaike information criterion, and Likelihood ratio testing.
-}
-\details{
-Choose u and lambda for sparse envelope model.
 }
 \references{
 The codes are implemented based on the algorithm in Z. Su, G. Zhu, and X. Chen (2015).
