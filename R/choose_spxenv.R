@@ -42,7 +42,6 @@ choose_spxenv <- function(X, Y, dims=NULL,lambda1=NULL,lambda2=NULL,  maxiter=1e
   if(missing(lambda1)) lambda1 <- exp(seq(log(.1),log(1e-3),len=5))
   if(missing(lambda2)) lambda2 <- exp(seq(log(.1),log(1e-3),len=5))
 
-  dims=c(range[1]:range[2],p)
   object=matrix(0,length(dims),5)
   dimnames(object)=list(dims,c('-2*Loglik','BIC','AIC','df','p-value'))
 
