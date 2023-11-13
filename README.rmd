@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 ```
 
 # SparseEnv 
-<a href="https://guang-yu-zhu.github.io/SparseEnv/"><img src="https://raw.githubusercontent.com/guang-yu-zhu/SparseEnv/main/img/icon.jpg" align="right" width=20%/></a>
+<a href="https://guang-yu-zhu.github.io/SparseEnv/"><img src="https://raw.githubusercontent.com/guang-yu-zhu/SparseEnv/main/img/icon.icon" align="right" width=20%/></a>
 
   [![R build status](https://github.com/microsoft/wpa/workflows/R-CMD-check/badge.svg)](https://github.com/guang-yu-zhu/SparseEnv)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT/)
