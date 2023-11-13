@@ -3,7 +3,7 @@
 
 # SparseEnv
 
-<a href="https://guang-yu-zhu.github.io/SparseEnv/"><img src="https://raw.githubusercontent.com/guang-yu-zhu/SparseEnv/main/img/icon.icon" align="right" width=20%/></a>
+<a href="https://guang-yu-zhu.github.io/SparseEnv/"><img src="https://raw.githubusercontent.com/guang-yu-zhu/SparseEnv/main/img/icon.png" align="right" width=20%/></a>
 
 [![R build
 status](https://github.com/microsoft/wpa/workflows/R-CMD-check/badge.svg)](https://github.com/guang-yu-zhu/SparseEnv)
