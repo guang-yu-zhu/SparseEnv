@@ -7,7 +7,7 @@ file.edit('README.md')
 #-----
 library(pkgdown)
 library(roxygen2)
-devtools::install_github('tidyverse/tidytemplate')
+#devtools::install_github('tidyverse/tidytemplate')
 #usethis::use_github_action("pkgdown")
 #usethis::use_pkgdown()
 roxygenise(clean = TRUE)

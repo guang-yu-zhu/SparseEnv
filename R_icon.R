@@ -22,7 +22,7 @@ p2 <- ggplot()+ theme_icon()
 p.sticker <- sticker(
   p2, package=" ", p_size=3,
   s_x=1, s_y=1.1, s_width=1.3, s_height=1.5,
-  h_color = "#478bca", h_fill = "#478bca",
+  h_color = "#C95853", h_fill = "#C95853", #478bca
   filename="img/icon.png"
 )
 p.sticker
