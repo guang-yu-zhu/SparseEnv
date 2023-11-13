@@ -3,7 +3,7 @@ file.edit('.gitignore')
 #file.edit('.github/workflows/_pkgdown.yml')
 file.edit('_pkgdown.yml')
 file.edit('DESCRIPTION')
-file.edit('README.md')
+file.edit('README.rmd')
 #-----
 library(pkgdown)
 library(roxygen2)
