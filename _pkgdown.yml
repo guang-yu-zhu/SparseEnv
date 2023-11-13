@@ -35,7 +35,7 @@ reference:
 - title: Data
   desc: >
     SparseEnv comes with a selection of built-in datasets that are used in
-    examples to illustrate various visualisation challenges.
+    examples.
   contents:
   - Berkeley
   - fiberpaper
